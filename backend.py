@@ -12,7 +12,7 @@ app.secret_key = 'your_secret_key_here'  # Session için gerekli
 CORS(app)  # CORS izinleri
 
 # Global bilgi mesajları
-INFO_TELEGRAM = "t.me/DemirKocs"
+INFO_TELEGRAM = "t.me/f3system"
 INFO_ALT = "apileri bilerek saklamadım orospu cocukları))))9"
 
 # Yardımcı fonksiyonlar
